@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Description>Go to the gym</Description>
+    <Category>
+      <id>1</id>
+      <CategoryName>Personal</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.0998319+03:00</StartDate>
+    <EndDate>2024-06-12T17:44:16.0998407+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Finish project report</Description>
+    <Category>
+      <id>2</id>
+      <CategoryName>Work</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005278+03:00</StartDate>
+    <EndDate>2024-06-12T20:44:16.1005289+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Read chapter 4</Description>
+    <Category>
+      <id>3</id>
+      <CategoryName>Study</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005324+03:00</StartDate>
+    <EndDate>2024-06-12T18:44:16.1005327+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Grocery shopping</Description>
+    <Category>
+      <id>1</id>
+      <CategoryName>Personal</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005338+03:00</StartDate>
+    <EndDate>2024-06-12T16:44:16.100534+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Team meeting</Description>
+    <Category>
+      <id>2</id>
+      <CategoryName>Work</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.100535+03:00</StartDate>
+    <EndDate>2024-06-12T17:44:16.100536+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Complete online course</Description>
+    <Category>
+      <id>3</id>
+      <CategoryName>Study</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005389+03:00</StartDate>
+    <EndDate>2024-06-12T21:44:16.1005392+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Morning jog</Description>
+    <Category>
+      <id>1</id>
+      <CategoryName>Personal</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005402+03:00</StartDate>
+    <EndDate>2024-06-12T16:44:16.1005405+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Client call</Description>
+    <Category>
+      <id>2</id>
+      <CategoryName>Work</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005415+03:00</StartDate>
+    <EndDate>2024-06-12T16:44:16.1005417+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Write essay</Description>
+    <Category>
+      <id>3</id>
+      <CategoryName>Study</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005428+03:00</StartDate>
+    <EndDate>2024-06-12T19:44:16.100543+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Clean the house</Description>
+    <Category>
+      <id>1</id>
+      <CategoryName>Personal</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005442+03:00</StartDate>
+    <EndDate>2024-06-12T18:44:16.1005444+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Prepare presentation</Description>
+    <Category>
+      <id>2</id>
+      <CategoryName>Work</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005455+03:00</StartDate>
+    <EndDate>2024-06-12T19:44:16.1005457+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Study for exam</Description>
+    <Category>
+      <id>3</id>
+      <CategoryName>Study</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005467+03:00</StartDate>
+    <EndDate>2024-06-12T20:44:16.100547+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Call mom</Description>
+    <Category>
+      <id>1</id>
+      <CategoryName>Personal</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.100548+03:00</StartDate>
+    <EndDate>2024-06-12T16:44:16.1005483+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Update website</Description>
+    <Category>
+      <id>2</id>
+      <CategoryName>Work</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005493+03:00</StartDate>
+    <EndDate>2024-06-12T17:44:16.1005495+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Group project meeting</Description>
+    <Category>
+      <id>3</id>
+      <CategoryName>Study</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005506+03:00</StartDate>
+    <EndDate>2024-06-12T18:44:16.1005508+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Cook dinner</Description>
+    <Category>
+      <id>1</id>
+      <CategoryName>Personal</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005519+03:00</StartDate>
+    <EndDate>2024-06-12T17:44:16.1005521+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Email boss</Description>
+    <Category>
+      <id>2</id>
+      <CategoryName>Work</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005531+03:00</StartDate>
+    <EndDate>2024-06-12T16:44:16.1005534+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Attend webinar</Description>
+    <Category>
+      <id>3</id>
+      <CategoryName>Study</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005545+03:00</StartDate>
+    <EndDate>2024-06-12T18:44:16.1005548+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+  <Task>
+    <Description>Walk the dog</Description>
+    <Category>
+      <id>1</id>
+      <CategoryName>Personal</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005558+03:00</StartDate>
+    <EndDate>2024-06-12T16:44:16.100556+03:00</EndDate>
+    <Done>false</Done>
+  </Task>
+  <Task>
+    <Description>Review budget</Description>
+    <Category>
+      <id>2</id>
+      <CategoryName>Work</CategoryName>
+    </Category>
+    <StartDate>2024-06-12T15:44:16.1005603+03:00</StartDate>
+    <EndDate>2024-06-12T17:44:16.1005606+03:00</EndDate>
+    <Done>true</Done>
+  </Task>
+</ArrayOfTask>
